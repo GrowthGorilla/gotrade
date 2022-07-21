@@ -1,4 +1,4 @@
-<script>(function () {
+(function () {
   //Getting the url of the page
   const url_string = window.location.href;
   //Temp URL
@@ -74,4 +74,3 @@
       break;
   }
 })();
-</script>
